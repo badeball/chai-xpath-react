@@ -1,5 +1,7 @@
 # chai-reactorist
 
+[![Build Status](https://travis-ci.org/badeball/chai-reactorist.svg?branch=master)](https://travis-ci.org/badeball/chai-reactorist)
+
 XPath matchers for [React][react] elements. It is recommended that you use
 [shallow rendering][shallow-rendering] of components and make your assertion on
 its output.
