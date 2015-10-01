@@ -9,7 +9,7 @@
     "url": "git://github.com/badeball/chai-xpath-react.git"
   },
   "dependencies": {
-    "xpath-react": "badeball/xpath-react"
+    "xpath-react": "^1.1.0"
   },
   "devDependencies": {
     "babel": "5.8.23",
