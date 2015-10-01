@@ -1,15 +1,15 @@
 {
-  "name": "chai-reactorist",
+  "name": "chai-xpath-react",
   "version": "0.0.1",
   "description": "XPath matchers for React elements.",
-  "main": "lib/chai_reactorist.js",
+  "main": "lib/chai_xpath_react.js",
   "author": "Jonas Amundsen <jonasba@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/badeball/chai-reactorist.git"
+    "url": "git://github.com/badeball/chai-xpath-react.git"
   },
   "dependencies": {
-    "reactorist": "badeball/reactorist"
+    "xpath-react": "badeball/xpath-react"
   },
   "devDependencies": {
     "babel": "5.8.23",

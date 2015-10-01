@@ -12,7 +12,7 @@ var Chai = require("chai");
 
 Chai.should();
 
-Chai.use(require("../lib/chai_reactorist"));
+Chai.use(require("../lib/chai_xpath_react"));
 
 var element = (
   <div>
@@ -23,7 +23,7 @@ var element = (
   </div>
 );
 
-describe("chai-reactorist", function () {
+describe("chai-xpath-react", function () {
   it("should throw when given something other than a React element", function () {
     Assert.throws(function () {
       "foo".should.have.xpath("bar");
