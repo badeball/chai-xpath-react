@@ -1,6 +1,6 @@
 {
   "name": "chai-xpath-react",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "XPath matchers for React elements.",
   "main": "lib/chai_xpath_react.js",
   "author": "Jonas Amundsen <jonasba@gmail.com>",
