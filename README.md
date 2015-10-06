@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/badeball/chai-xpath-react.svg?branch=master)](https://travis-ci.org/badeball/chai-xpath-react)
 [![Code Climate](https://codeclimate.com/github/badeball/chai-xpath-react/badges/gpa.svg)](https://codeclimate.com/github/badeball/chai-xpath-react)
+[![Test Coverage](https://codeclimate.com/github/badeball/chai-xpath-react/badges/coverage.svg)](https://codeclimate.com/github/badeball/chai-xpath-react/coverage)
 
 XPath matchers for [React][react] elements. It is recommended that you use
 [shallow rendering][shallow-rendering] of components and make your assertion on
