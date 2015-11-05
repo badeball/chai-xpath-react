@@ -9,7 +9,8 @@
     "url": "git://github.com/badeball/chai-xpath-react.git"
   },
   "dependencies": {
-    "xpath-react": "^2.0.1"
+    "react-addons-test-utils": "^0.14.2",
+    "xpath-react": "^3.1.1"
   },
   "devDependencies": {
     "babel": "5.8.23",
@@ -18,7 +19,7 @@
     "eslint": "0.24.1",
     "istanbul": "0.3.22",
     "mocha": "2.3.2",
-    "react": "0.13.3"
+    "react": "0.14.2"
   },
   "files": [
     "lib"
