@@ -18,7 +18,7 @@
     "eslint": "0.24.1",
     "istanbul": "0.3.22",
     "mocha": "2.3.2",
-    "react": "0.14.2"
+    "react": "0.14.6"
   },
   "files": [
     "lib"
