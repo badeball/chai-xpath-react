@@ -9,7 +9,6 @@
     "url": "git://github.com/badeball/chai-xpath-react.git"
   },
   "dependencies": {
-    "react-addons-test-utils": "^0.14.2",
     "xpath-react": "^3.3.0"
   },
   "devDependencies": {
